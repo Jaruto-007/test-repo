@@ -2,6 +2,7 @@ body {
   background: red;
   width: 0;
   height: 0;
+  padding: inherit;
 }
 h1 {
   color: blueviolet;
